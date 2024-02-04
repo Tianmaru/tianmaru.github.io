@@ -17,9 +17,9 @@ title: Catastrophic Forgetting
 email: tianmaru@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
         Welcome to my website!
-baseurl: "/jekyll-theme-libretto" # the subpath of your site, e.g. /blog
-url: "https://tianmaru.github.io" # the base hostname & protocol for your site
+#baseurl: "/jekyll-theme-libretto" # the subpath of your site, e.g. /blog
+#url: "https://tianmaru.github.io" # the base hostname & protocol for your site
 github_username:    tianmaru
-
+mastodon_username: tianmaru
 # Build settings
 markdown: kramdown
